@@ -1,0 +1,25 @@
+a:link{
+	color:blue;
+	text-decoration:none;
+}
+a:visited{
+	color:purple;
+}
+a:hover{
+	background-color:blue;
+	color:white;
+	text-decoration:underline;
+	font-weight:bold;
+}
+a:active{
+	background-color:orange;
+}
+
+#odd{
+    background-color: #ddd;
+}
+
+#even{
+	background: orange;
+}
+
