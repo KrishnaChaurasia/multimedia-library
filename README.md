@@ -1,5 +1,5 @@
 # multimedia-library
-Multimedia library is a web-based portal to host NPTEL videos and other documents locally inside IIITD&M Kancheepuram.
+Multimedia library is a web-based portal that hosts NPTEL videos and other documents locally inside IIITD&M Kancheepuram.
 It offers the following functionalities:
 1. Create/Edit/Delete a department
 2. Create/Edit/Delete a course
